@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/88508599/200019838-6547d57a-5ca1-4c0d-b417-7fcff9e5af9c.png)
-
-
 # MyProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
